@@ -13,8 +13,8 @@ Copy the code of CyptoPoops and NonFungibleToken as given in assignment of modul
 And we are going to add borrowAuthNFT  in existing program of Cryptopoops 
 Now the exection the code on playground .
 I have deployed , NonFungibleToken.cdc at 0x06  and Deploy CryptoPoops.cdc at 0x05 . 
-we now create the collection by deploying Collection.cdc  which is in Transcation section.
-Execute Minting.cdc transaction with address  0x05 and add the required infoemation . Execute ReadScript.cdc with address textbox with the address where the NFT is stored.
+we now create the collection by deploying Collecting.cdc  which is in Transcation section.
+Execute Minting.cdc transaction with address  0x05 and add the required infoemation . Execute Read.cdc with address textbox with the address where the NFT is stored.
 
 
 
